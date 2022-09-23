@@ -108,7 +108,7 @@ int main() {
 #endif
 
 //왜인지는 모르겠는데 이렇게 출력되는걸 만들라고 하심 엄...
-#if 1
+#if 0
 int main() {
 	unsigned char a1 = 0xA1, a2 = 0xE1;
 	for (int i = 0; i < 5; i++) printf("%c%c ", a1, a2);
