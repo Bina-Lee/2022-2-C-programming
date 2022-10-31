@@ -42,5 +42,8 @@
     <ClCompile Include="2022.10.17.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2022.10.31.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
