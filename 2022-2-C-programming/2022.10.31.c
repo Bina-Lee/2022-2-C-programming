@@ -64,3 +64,4 @@ int strlen(char* arr) {
 
 //같은 방식으로 strcpy도 구현해볼 것
 
+strcat strstr
