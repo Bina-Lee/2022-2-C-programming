@@ -60,5 +60,8 @@
     <ClCompile Include="2022.11.25.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2022.11.28.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
